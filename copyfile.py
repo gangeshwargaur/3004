@@ -6,6 +6,9 @@ for i in lines:
     f.write(i+'\n')
 
 # ===============================================================================
+
+# com.android.chrome/com.google.android.apps.chrome.Main}
+
 # dirName = "Test"
 fileName ="file1.txt"
 
